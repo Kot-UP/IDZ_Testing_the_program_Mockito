@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aabcd6a7-a229-487e-ab37-910070e3a44d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geo-service/src/test/java/ru/netology/geo/GeoServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geo-service/src/test/java/ru/netology/i18n/LocalizationServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geo-service/src/test/java/ru/netology/sender/MessageSenderImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geo-service/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geo-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geo-service/src/main/java/ru/netology/entity/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/geo-service/src/main/java/ru/netology/entity/Location.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2cwUb2OWkycQHC5SLyqGG1hysgd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Aleksandr Kot/IDEA/Java Core/7_Testing_the_program_Mockito/IDZ_Testing_the_program_Mockito",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.i18n" />
+      <recent name="ru.netology.geo" />
+      <recent name="ru.netology.sender" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LocalizationServiceImplTest.locale">
+    <configuration name="GeoServiceImplTest.byIp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IDZ_Testing_the_program_Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.geo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.geo" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.geo.GeoServiceImplTest" />
+      <option name="METHOD_NAME" value="byIp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeoServiceImplTest.byIp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IDZ_Testing_the_program_Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.geo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.geo" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.geo.GeoServiceImplTest" />
+      <option name="METHOD_NAME" value="byIp(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalizationServiceImplTest.locale" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IDZ_Testing_the_program_Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.i18n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.i18n" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.i18n.LocalizationServiceImplTest" />
+      <option name="METHOD_NAME" value="locale" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageSenderImplTest.sendRu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IDZ_Testing_the_program_Mockito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.sender.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.sender" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.sender.MessageSenderImplTest" />
+      <option name="METHOD_NAME" value="sendRu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LocalizationServiceImplTest.locale" />
+        <item itemvalue="JUnit.GeoServiceImplTest.byIp (1)" />
+        <item itemvalue="JUnit.GeoServiceImplTest.byIp" />
+        <item itemvalue="JUnit.MessageSenderImplTest.sendRu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aabcd6a7-a229-487e-ab37-910070e3a44d" name="Changes" comment="" />
+      <created>1709022204365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709022204365</updated>
+    </task>
+    <servers />
+  </component>
+</project>
